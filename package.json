@@ -1,0 +1,20 @@
+{
+  "name": "TeamSkyMEANS",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.15.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "express": "~4.13.4",
+    "hjs": "~0.0.6",
+    "mongoose": "^4.5.6",
+    "morgan": "~1.7.0",
+    "serve-favicon": "~2.3.0",
+    "stylus": "0.54.5"
+  }
+}
